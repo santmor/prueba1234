@@ -1,4 +1,0 @@
-welcome to my first repo
-learning git is going well so far
-I added this line in the update_readme brach
-its windy outside today
